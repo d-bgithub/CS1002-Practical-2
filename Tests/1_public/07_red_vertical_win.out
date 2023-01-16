@@ -1,0 +1,73 @@
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y . . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y . . . . .
+. Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y R . . . .
+. Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y . . . . .
+. Y R . . . .
+. Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y R . . . .
+. Y R . . . .
+. Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. Y R . . . .
+. Y R . . . .
+Y Y R . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . R . . . .
+. Y R . . . .
+. Y R . . . .
+Y Y R . . . .
+
+Game over: red wins

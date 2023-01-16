@@ -1,0 +1,127 @@
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y . . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y . . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y . . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . . Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . . . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . . Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . . . . .
+. . R Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . . Y . . .
+. . R Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . R Y . . .
+. . R Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: Column is full
+
+. . R Y . . .
+. . R Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Enter column number (1-7), or 0 to quit: 
+
+. . R Y . . .
+. . R Y . . .
+. . R Y . . .
+. . Y R . . .
+. . Y R . . .
+. . Y R . . .
+
+Game over: user quit
